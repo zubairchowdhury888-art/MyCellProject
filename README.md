@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1130955481.svg)](https://zenodo.org/badge/latestdoi/1130955481)
+
 MyCellProject v4: Fungal Electrical Grammar
 Schizophyllum commune electrical grammar analysis from 137-hour recordings. Replicates and expands Adamatzky (2023) Scientific Reports on multiscalar fungal spiking.
 
