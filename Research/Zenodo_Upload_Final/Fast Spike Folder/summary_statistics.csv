@@ -1,0 +1,15 @@
+Metric,Value
+Recording Duration (s),3533
+Recording Duration (min),58.9
+Total Data Points,3534
+Total Spikes,395
+Spike Frequency (spikes/min),6.71
+Mean Voltage Drop (mV),-0.1790
+Median Voltage Drop (mV),-0.1760
+Std Dev Voltage Drop (mV),0.0183
+Largest Spike (mV),-0.2310
+Mean Inter-Spike Interval (s),8.94
+Median Inter-Spike Interval (s),7.00
+Small Spikes Count,217
+Medium Spikes Count,155
+Large Spikes Count,23

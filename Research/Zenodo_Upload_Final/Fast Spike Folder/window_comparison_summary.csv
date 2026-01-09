@@ -1,0 +1,4 @@
+Window_Name,Time_Range,Duration_Minutes,Voltage_Range_mV,Event_Count,Event_Frequency_per_min
+Fast Spikes,164784-168317,58.88333333333333,-0.063 to 0.149,0,0.0
+Action-Potential Spikes,309650-323810,236.0,-1.168 to 1.463,6,0.025423728813559324
+Full Recording,0-494044,8234.066666666668,-1.531 to 1.911,42,0.005100760256171515

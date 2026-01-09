@@ -1,0 +1,4 @@
+Model,Initial_MI,MI_at_30pct_noise,Capacity_Advantage,Absolute_Preservation
+Random,0.0006432158319965,0.0001084241942003,1.0,Negligible
+Boolean,0.0,0.0003485925982209,1.0,Negligible
+Syntactic,0.0419322960063993,0.0002121220012854,419.322960063993,Significant

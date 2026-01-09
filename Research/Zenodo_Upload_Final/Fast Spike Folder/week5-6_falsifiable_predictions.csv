@@ -1,0 +1,5 @@
+Prediction_ID,Hypothesis,Test_Method,Expected_If_True,Null_Hypothesis,Required_Equipment,Cost_Estimate_GBP,Feasibility
+P1,Spike trains contain extractable grammar rules,Apply Sequitur/ADIOS grammar inference algorithms,Context-free grammar with nested rules (depth ≥2),No grammar beyond bigram statistics,Existing data + grammar inference software,0,Immediate
+P2,Noise resistance exceeds Markov baseline,"Add progressive noise (5-30%), measure MI preservation",Degradation rate <50% of Boolean baseline,Classical degradation rate (matches Markov),Noise injection in cellular automaton (already implemented),0,Complete
+P3,Non-local synchronization across mycelium,Multi-electrode recording at varying distances (1-50mm),Correlation decay slower than diffusion model (t^-0.5),Correlation follows diffusion limit,Multi-channel data logger + precision electrode positioning,2000,Moderate
+P4,Grammar depth scales with neural complexity,Compare grammar hierarchies across species (fungi→mammals),Positive correlation (r>0.5) between grammar depth and brain mass,No correlation or negative correlation,Cross-species dataset (Adamatzky 2018-2023 papers),0,Immediate
