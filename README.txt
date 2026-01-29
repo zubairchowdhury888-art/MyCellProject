@@ -51,6 +51,28 @@ python test_correlation.py
 
 Only syntactic coupling predicts strong nonlocal correlation (>0.7).
 
+# 🧬 MyCellProject: Fungal Grammar Computation
+
+**90 non-terminals @ T=1.0** | Schizophyllum commune
+
+[![Star History](https://star-history.com/#zubairchowdhury888-art/MyCellProject-clean&Date)](https://star-history.com/zubairchowdhury888-art/MyCellProject-clean)
+
+## Paper
+**Distinguishing Protocomputational Substrates in Mycelial Networks**  
+*Manuscript ID: BIOSYS-S-25-01456 (BioSystems)*
+
+## Code
+- `model_b_syntactic.py` - **Grammar model** (Corr_AB = 0.955)
+- `model_a_classical.py` - Null model (0.040)  
+- `05_code_archive/` - Zenodo analysis code
+- `03_results/` - Graphs + `grammar_metrics.json`
+
+## Quick Run
+```bash
+pip install numpy
+python model_b_syntactic.py
+python test_correlation.py
+
 ## Citation
 
 If you use this code or data, please cite:
