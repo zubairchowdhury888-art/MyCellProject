@@ -87,6 +87,20 @@ DOI: [Will be added after Zenodo publication]
 Code: MIT License
 Paper: CC BY 4.0
 
+# MyCellProject
+
+**Published:** DOI: [10.5281/zenodo.18645574](https://zenodo.org/records/18645574)
+
+## Biological Quantum Memory via Hankel-Grammar Mapping
+
+Proof that *Schizophyllum commune* mycelial networks exhibit quantum-optimal information processing:
+- 90 non-terminals at T=1.0
+- Corr_AB = 0.955 (vs classical 0.040)
+- Isomorphic to Hankel quantum memory (R²=0.89)
+- Consciousness as topological computation
+
+**Full paper:** [Zenodo](https://zenodo.org/records/18645574)
+
 ## Contact
 
 Email: zubairchowdhury888@gmail.com
